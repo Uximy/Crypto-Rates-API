@@ -47,8 +47,6 @@ src/
 │   ├── pairs.service.ts
 │   ├── pairs.controller.ts
 ├── rates/             # Модуль для работы с курсами
-│   ├── dto/
-│   ├── entities/
 │   ├── rates.module.ts
 │   ├── rates.service.ts
 │   ├── rates.controller.ts
