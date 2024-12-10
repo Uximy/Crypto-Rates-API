@@ -20,7 +20,7 @@
 ## Установка
 1. **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/your-repository/crypto-rates-api.git
+    git clone https://github.com/Uximy/Crypto-Rates-API.git
     cd crypto-rates-api
     ```
 2. **Установите зависимости:**
